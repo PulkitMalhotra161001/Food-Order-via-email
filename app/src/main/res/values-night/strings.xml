@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Toppings</string>
+    <string name="pulkit_malhotra">Pulkit Malhotra</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_summary">order summary</string>
+    <string name="order">Order</string>
+
+    <string name="order_summary_name">Name: <xliff:g id="order_name" example="Pulkit">%s</xliff:g> </string>
+    <string name="order_summary_whipped_cream">\nAdd Whipped Cream ? <xliff:g id="order_whippedCream" example="true">%b</xliff:g> </string>
+    <string name="order_summary_chocolate">\nAdd Chocolate ? <xliff:g id="order_chocolate" example="true">%b</xliff:g> </string>
+    <string name="order_summary_quantity">\nQuantity: <xliff:g id="order_quantity" example="12">%x</xliff:g> </string>
+    <string name="order_summary_total">\nTotal: $<xliff:g id="order_total" example="10">%d</xliff:g> </string>
+    <string name="thank_you">\nThank you!</string>
+</resources>
